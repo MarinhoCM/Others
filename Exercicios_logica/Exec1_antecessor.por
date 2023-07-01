@@ -2,12 +2,12 @@ programa {
 	funcao inicio() {
 	   inteiro numero, antecessor 
 	   
-	   escreva("Digite um número: ")
+	   escreva("Digite um nï¿½mero: ")
 	   leia(numero)
 	   
 	   antecessor = numero - 1
 	   
-	   escreva("O antecessor deo seu número é: " +antecessor)
+	   escreva("O antecessor deo seu nï¿½mero ï¿½: " + antecessor)
 	   
 	   
 	}

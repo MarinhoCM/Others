@@ -16,3 +16,27 @@
   <li><strong>Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos em branco, nulos e validos.
     <br>Calcule e escreva o percentual que cada um representa em relação ao total de eleitores.</strong></li>
 </ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec5_soma.por"><strong>Exercício 05</strong></h3>
+<ul>
+  <li><strong>Elabore um algoritmo que leia dois números e mostre a soma deles.
+</ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 06</strong></h3>
+<ul>
+  <li><strong> leia 4 notas e mostre a media.
+</ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 07</strong></h3>
+<ul>
+  <li><strong>some o quadrado de dois numeros inteiros
+</ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 08</strong></h3>
+<ul>
+  <li><strong>leia uma medida em metros e converta para centimetros
+</ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 09</strong></h3>
+<ul>
+  <li><strong>leia o valor do lado do quadrado, calcule a area dele e em seguida calcule o dobro dessa area e mostre-a
+</ul><br>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 10</strong></h3>
+<ul>
+  <li><strong>leia o valor que um funcionário recebe por hora e o numero de horas trabalhadas no mes. calcule e mostre o total desse salario por mês.
+</ul><br>
