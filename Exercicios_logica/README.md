@@ -20,23 +20,23 @@
 <ul>
   <li><strong>Elabore um algoritmo que leia dois números e mostre a soma deles.
 </ul><br>
-<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 06</strong></h3>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec6_media.por"><strong>Exercício 06</strong></h3>
 <ul>
   <li><strong> leia 4 notas e mostre a media.
 </ul><br>
-<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 07</strong></h3>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec7_soma_quadrado.por"><strong>Exercício 07</strong></h3>
 <ul>
   <li><strong>some o quadrado de dois numeros inteiros
 </ul><br>
-<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 08</strong></h3>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec8_metros_para_centimetros.por"><strong>Exercício 08</strong></h3>
 <ul>
   <li><strong>leia uma medida em metros e converta para centimetros
 </ul><br>
-<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 09</strong></h3>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec9_mostra_dobro_de_area.por"><strong>Exercício 09</strong></h3>
 <ul>
   <li><strong>leia o valor do lado do quadrado, calcule a area dele e em seguida calcule o dobro dessa area e mostre-a
 </ul><br>
-<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec4_CalculaVotos.por"><strong>Exercício 10</strong></h3>
+<h3><a href="https://github.com/MarinhoCM/Others/blob/main/Exercicios_logica/Exec10_descobre_salario.por"><strong>Exercício 10</strong></h3>
 <ul>
   <li><strong>leia o valor que um funcionário recebe por hora e o numero de horas trabalhadas no mes. calcule e mostre o total desse salario por mês.
 </ul><br>
